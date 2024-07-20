@@ -1,5 +1,5 @@
 # FrontEnd ![HTML](https://img.shields.io/badge/HTML-red?logo=html5&logoColor=white) ![CSS](https://img.shields.io/badge/CSS-blue?logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow?logo=javascript&logoColor=white)
-En este apartado se ubicaran los archivps que dan forma al sitio web estático.
+En este apartado se ubicaran los archivos que dan forma al sitio web estático.
 
 ## Estructura de Archivos
 
